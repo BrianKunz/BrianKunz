@@ -24,7 +24,7 @@ Currently completing solo projects while loooking to join a new team!
 
 </div>
 
-<h3> Languages </h3>
+<h2> Languages </h2>
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript Logo" width="50" height="50" /> 
